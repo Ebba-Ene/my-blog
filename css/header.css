@@ -1,0 +1,12 @@
+header{
+  background-color: #5D688A;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav a{
+  text-decoration-style: none;
+  color:white;
+}
